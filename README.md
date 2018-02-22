@@ -1,5 +1,5 @@
 
-# Snippets for Visual Studio Code #
+# LSL Snippets for Visual Studio Code #
 
 #### [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") как альтернативный редактор [LSL (Linden Scripting Language)](http://wiki.secondlife.com/wiki/LSL_Portal "LSL Portal") ####
 
