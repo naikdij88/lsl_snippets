@@ -4,6 +4,8 @@
 *   **Events** 
 *   **Types** 
 *   **Constants** 
+
+***[Video  preview](https://youtu.be/xRJ3NJQXoiI)***
 #### [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") как альтернативный редактор [LSL (Linden Scripting Language)](http://wiki.secondlife.com/wiki/LSL_Portal "LSL Portal") ####
 
 ![Alt text](img-001.gif)
