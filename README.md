@@ -22,6 +22,9 @@
 >     Linux ~/.vscode/extensions
 >
 >**пример**: _lsl_min.json >> lsl.json >> ~/.vscode/extensions/ebickle.lsl-0.3.2/snippets/lsl.json_
+>
+>       lsl_min_ru.json - Описание функций переведено Яндекс переводом
+
 ***
 > 1.   To Install [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 >>
